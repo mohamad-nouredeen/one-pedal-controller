@@ -1,0 +1,29 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# Simulink cache and generated build artifacts
+*.slxc
+slprj/
+*_ert_rtw/
+codegen/
+
+# Compiled/generated binaries not needed in the repository
+*.o
+*.obj
+*.a
+*.lib
+*.dep
+*.dmr
+*.tmw
+*.mk
+*.bat
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temporary files
+*~
