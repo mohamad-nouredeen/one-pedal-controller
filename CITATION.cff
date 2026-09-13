@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "One-Pedal Controller"
+
+type: software
+
+authors:
+  - family-names: "Nour Edeen"
+    given-names: "Mohamad"
+  - family-names: "Mokdad"
+    given-names: "Mahdy"
+
+repository-code: "https://github.com/mohamad-nouredeen/one-pedal-controller"
+
+abstract: >
+  Model-based design, simulation, functional-safety analysis, testing,
+  embedded code generation, and Arduino/SimulIDE deployment of a
+  one-pedal controller for an electric vehicle. The project includes
+  Simulink and Stateflow controller models, a longitudinal vehicle plant,
+  safety-related fault injection and testing, generated embedded C code,
+  AVR firmware, and project documentation.
+
+keywords:
+  - one-pedal driving
+  - electric vehicle
+  - model-based design
+  - MATLAB
+  - Simulink
+  - Stateflow
+  - functional safety
+  - ISO 26262
+  - Arduino
+  - embedded systems
+  - vehicle dynamics
+
+license: MIT
